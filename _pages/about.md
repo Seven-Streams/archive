@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: Yuchuan.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>ACM Honor Class<p>
     <p>Shanghai Jiao Tong University<p>

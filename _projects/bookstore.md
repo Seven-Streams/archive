@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-This is a toy bookstore system.You can register accounts in it.
+This is [a toy bookstore system](https://github.com/Seven-Streams/Bookstore).You can register accounts in it.
 
 As customers, you can search the information of books and purchase them.
 
