@@ -3,7 +3,7 @@ layout: page
 title: Bookstore
 description: a project of Programming(2023Fall),ACM Honor Class
 img: assets/img/bookstore.webp
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---

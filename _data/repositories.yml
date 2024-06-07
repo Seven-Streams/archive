@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Seven-Streams
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Seven-Streams/Bookstore
+  - Seven-Streams/Yi-numbers-of-the-plum
+  - Seven-Streams/Notes
+  - Seven-Streams/Ticket_System
